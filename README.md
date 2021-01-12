@@ -31,3 +31,4 @@
 - When not in JS land, I lean towards Solidity, and Go. Talk about nice syntax!
 - Advocate for a decentralized, free and open source web. 👏 Use 👏 Firefox 👏!
 - I made a caribbean-themed [song](https://www.dropbox.com/s/m8ak2tqpit81c2f/vitalicaribbean.wav?dl=0) with a coworker with Vitalik's voice.
+- I also love music, extreme sports, F1 racing, and a lot of other things. Life is just cool man.
