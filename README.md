@@ -23,7 +23,7 @@
 
 ## Sports 🏃‍♀️
 
-#### `(ICPC, 2018, 2019) => 2x Silver Medalist in the Dominican Collegiate Programming Contest.`
+#### `(ICPC, 2018, 2019) => 2x Silver Medalist in the Dominican Collegiate Programming Contest`
 
 ## Quirks :crystal_ball:
 
